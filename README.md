@@ -24,6 +24,11 @@ A manufacturing company has been experiencing frequent machine downtime, leading
 * Provide actionable recommendations to improve production efficiency.
 
 ---
+## Project Files
+
+- 📄 Dataset: [dataset.csv](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGoxai%2FManufacturing-Line-Productivity%2Frefs%2Fheads%2Fmain%2FManufacturing_Line_Productivity%2520complete%2520project.xlsx&wdOrigin=BROWSELINK)
+- 📊 Excel Analysis: [https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGoxai%2FManufacturing-Line-Productivity%2Frefs%2Fheads%2Fmain%2FManufacturing_Line_Productivity%2520complete%2520project.xlsx&wdOrigin=BROWSELINK])
+- 📈 Dashboard: [https://github.com/Goxai/Manufacturing-Line-Productivity/blob/main/manufacturing%20dashboard.png]
 
 ## Dataset
 
