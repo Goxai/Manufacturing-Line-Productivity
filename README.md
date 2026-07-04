@@ -80,8 +80,7 @@ The dashboard presents:
 * Downtime distribution by cause.
 * Operator efficiency.
 * Major downtime contributors.
-* Production performance summary.
-* Key performance indicators (KPIs).
+* Recommendations.
 
 ---
 
